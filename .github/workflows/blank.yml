@@ -11,7 +11,7 @@
 # Diddle this to make it so that all intros, prefaces, and the like are
 # output as chapters less than 1.  For example, 0 is appropriate for a
 # text that launches right into the chapters.
-$STARTING_CHAPTER=0;
+$STARTING_CHAPTER=1;
 
 # What are the files to be named?
 $FILENAMES='ch%CHAPTER%.htm';
